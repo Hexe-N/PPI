@@ -1,4 +1,12 @@
-﻿using System;
+/**
+*@файл.программа
+*@автор Близниченко
+*@ссылка 
+*@copiright Авторское право
+*@лицензия
+*/
+
+using System;
 using System.Windows.Forms;
 using VectorEditor.Model;
 using VectorEditor.View;
@@ -25,3 +33,10 @@ namespace VectorEditor
         }
     }
 }
+/**
+*@пакет 
+*@начиная с 0.1
+*@todo планируется добавить инструменты
+*@версия Версия 1.1
+*/
+
